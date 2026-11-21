@@ -3,7 +3,7 @@
 An interactive space mission design game built for the **NASA Space Apps Challenge 2026 (Cairo)**, challenge: **Space Mission Design Game**.
 Our team, **Planet Her**, won **2nd place** in collaboration with **Loc & Play**.
 
-**Play it:** https://asmaa23011194.github.io/Mission-Forge/
+**Play it:** https://asmaa-m-saad.github.io/Mission-Forge/
 
 ## About
 Designing a space mission means balancing competing demands: objectives, spacecraft design, instruments, launch vehicles, budget, power, mass, and orbital constraints. Mission Forge lets players make those decisions themselves and see how each choice affects the outcome of their mission.
