@@ -24,7 +24,10 @@ HTML, CSS, JavaScript, Three.js (3D orbit view).
 
 ## Team — Planet Her
 - Asmaa Mahmoud Saad
-- (add teammates)
+- Aya Elnaggar
+- Safaa Elsayed
+- Bamala Nasr
+- Dareen Mohamed
 
 ## Acknowledgements
 NASA Space Apps Challenge, Space Apps Cairo, and Loc & Play.
